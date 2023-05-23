@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Changing text in the feature branch.
+          Changing text for Github Actions.
         </p>
         <a
           className="App-link"
